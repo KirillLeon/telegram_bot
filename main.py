@@ -7,7 +7,7 @@ import requests
 def get_address_from_coords(coords):
     # заполняем параметры, которые описывались выже. Впиши в поле apikey свой токен!
     PARAMS = {
-        "apikey": "ТОКЕН",
+        "apikey": "40d1649f-0493-4b70-98ba-98533de7710b",
         "format": "json",
         "lang": "ru_RU",
         "kind": "house",
